@@ -1,8 +1,8 @@
 title: CWRlab SoilData
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A soil data schema library
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://agrifooddatacanada.github.io/CWRlab/
 
 aux_links:
   Template Repository: https://github.com/agrifooddatacanada/CWRlab
