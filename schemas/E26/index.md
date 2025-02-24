@@ -1,7 +1,0 @@
----
-title: E26
-parent: Sites
-nav_order: 3
----
-
-Data from Elora E26 site will be oraginsed here by instrument
