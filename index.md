@@ -1,7 +1,7 @@
 ---
-title: Sites
-layout: default
-nav_order: 2
+title: Home
+layout: home
+nav_order: 1
 ---
 
 # CWR Lab Schema Library
