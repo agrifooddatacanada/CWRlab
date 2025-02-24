@@ -1,9 +1,3 @@
----
-title: Home
-layout: home
-nav_order: 1
----
-
 # CWR Lab Schema Library
 
 Welcome to Schema Library for the CWR lab projects.  View and search schemas in the [Schema library](https://agrifooddatacanada.github.io/CWRlab/) and contribute your schemas here on the GitHub backend. 
