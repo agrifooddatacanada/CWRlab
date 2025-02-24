@@ -1,6 +1,5 @@
 ---
 title: E26
-layout: home
 nav_order: 2
 ---
 
